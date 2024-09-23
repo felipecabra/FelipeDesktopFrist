@@ -1,0 +1,66 @@
+.sobre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: center;
+    width: 100%;
+    margin-top: 70px;
+}
+.foto{
+width:150px;
+height:150px;
+background-color: rgb(47, 145, 79);
+border-radius: 100%;
+background-position: center;
+background-size: cover;
+display: flex;
+}
+
+.textos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 30px;
+
+}
+
+.sobre2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 70px;
+}
+
+.um{
+width:252px;
+height:271px;
+background-color: rgb(25, 53, 7);
+border-radius: 30px;
+
+}
+
+.dois{
+width:252px;
+height:271px;
+background-color: rgb(8, 61, 6);
+border-radius: 30px;
+margin-left: 60px;
+}
+
+.tres{
+width:252px;
+height: 271px;
+background-color: rgb(10, 31, 5);
+border-radius: 30px;
+margin-left: 60px;
+}
+
+.imagemcard{
+width: 100px;
+height: 100px;
+margin-top: 50px;
+margin-bottom: 42px;
+}
